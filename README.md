@@ -1,3 +1,5 @@
+Modularised version of https://github.com/theMBdev/react-hooks-intro using global context and reducer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
