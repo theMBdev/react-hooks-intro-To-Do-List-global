@@ -1,4 +1,16 @@
-Modularised version of https://github.com/theMBdev/react-hooks-intro using global context and reducer
+### What is this
+
+A modularised version of https://github.com/theMBdev/react-hooks-intro using global context and reducer
+
+### Why was it built
+
+To practice using global context and reducer in react.
+
+### Main technologies used
+Javascript, React
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
