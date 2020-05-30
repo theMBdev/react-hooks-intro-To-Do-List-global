@@ -1,6 +1,6 @@
 ### What is this
 
-A modularised version of https://github.com/theMBdev/react-hooks-intro using global context and reducer
+A modularised version of https://github.com/theMBdev/react-hooks-intro-To-Do-List using global context and reducer
 
 ### Why was it built
 
