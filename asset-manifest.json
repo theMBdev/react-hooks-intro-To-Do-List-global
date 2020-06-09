@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hooks-intro-To-Do-List-global/static/css/main.696b9a87.chunk.css",
+    "main.js": "/react-hooks-intro-To-Do-List-global/static/js/main.e02602cf.chunk.js",
+    "main.js.map": "/react-hooks-intro-To-Do-List-global/static/js/main.e02602cf.chunk.js.map",
+    "runtime-main.js": "/react-hooks-intro-To-Do-List-global/static/js/runtime-main.cbdbd2c6.js",
+    "runtime-main.js.map": "/react-hooks-intro-To-Do-List-global/static/js/runtime-main.cbdbd2c6.js.map",
+    "static/js/2.6db3f8cb.chunk.js": "/react-hooks-intro-To-Do-List-global/static/js/2.6db3f8cb.chunk.js",
+    "static/js/2.6db3f8cb.chunk.js.map": "/react-hooks-intro-To-Do-List-global/static/js/2.6db3f8cb.chunk.js.map",
+    "index.html": "/react-hooks-intro-To-Do-List-global/index.html",
+    "precache-manifest.6e013eb40d58f05c1c64171841dc57cf.js": "/react-hooks-intro-To-Do-List-global/precache-manifest.6e013eb40d58f05c1c64171841dc57cf.js",
+    "service-worker.js": "/react-hooks-intro-To-Do-List-global/service-worker.js",
+    "static/css/main.696b9a87.chunk.css.map": "/react-hooks-intro-To-Do-List-global/static/css/main.696b9a87.chunk.css.map",
+    "static/js/2.6db3f8cb.chunk.js.LICENSE.txt": "/react-hooks-intro-To-Do-List-global/static/js/2.6db3f8cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbdbd2c6.js",
+    "static/js/2.6db3f8cb.chunk.js",
+    "static/css/main.696b9a87.chunk.css",
+    "static/js/main.e02602cf.chunk.js"
+  ]
+}
