@@ -17,9 +17,9 @@ export const Todo = () => {
 
       {context.todos.map((todo) => (
         <div style={{textDecoration: todo.isCompleted ? 'line-through' : ''}} className="todo">{todo.text}
-     <div>
-       <button onClick={() => completeTodo(todo.id)}>Complete</button>
-       <button onClick={() => deleteTodo(todo.id)}>x</button>
+     <div className="button-container">
+       <button className="button-complete" onClick={() => completeTodo(todo.id)}><img src="./checked.png"></img></button>
+       <button className="button-delete" onClick={() => deleteTodo(todo.id)}><img src="./x.png"></img></button>
      </div>
      </div>
       ))}      

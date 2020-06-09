@@ -12,8 +12,8 @@ function App() {
     <GlobalProvider>
     <div className="app">
       <div className="todo-list">
-        <Todo/>
-        <TodoForm/>
+      <TodoForm/>
+      <Todo/>        
       </div>
     </div>
     </GlobalProvider>
