@@ -10,12 +10,12 @@ const initialState = {
         },    
         {
           id: 2,
-          text: 'Clean room',
+          text: 'Finish todo app',
           isCompleted: false
         },    
         {
           id: 3,
-          text: 'Go todo app',
+          text: 'These are in global state',
           isCompleted: false
         },
       ]
